@@ -9,6 +9,8 @@
     height: 100vh;
     justify-content: space-between;
     max-width: 20%;
+    -webkit-box-shadow: 8px 0px 10px 0px rgba(140,140,140,0.74); 
+box-shadow: 8px 0px 10px 0px rgba(140,140,140,0.74);
 }
 
 .logo-container{
@@ -43,11 +45,11 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 5%;
+    width: 80%;
 }
 
 .navigation-bottom-list{
     display: flex;
+    justify-content: space-around;
     list-style-type:none;
-    
-    
 }
