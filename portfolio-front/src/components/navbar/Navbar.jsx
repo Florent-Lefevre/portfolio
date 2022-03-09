@@ -17,7 +17,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className='bottom-container'>
-                <ul className='navigation-list'>
+                <ul className='navigation-bottom-list'>
                     <li>mentions légales</li>
                     <li>|</li>
                     <li>A propos</li>
